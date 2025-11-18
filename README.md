@@ -21,20 +21,18 @@ The project includes a full PDF report (~80 pages) detailing the architecture, i
 - Single-layer Fully Connected neural network (FC)
 - MAC hardware unit for multiply-accumulate operations
 - Fixed-point quantization for efficient FPGA resource usage
-- Weight ROMs using Intel .mif files
 - Top-level RTL architecture in VHDL
-- Control FSM managing loading, computation, and output
-- Testbenches for every major module (MAC, FC, top)
+- Control FSM managing the whole operation
+- Testbenches for every major module 
 - Compatible with DE2-115 Cyclone IV FPGA board
-- Fully synthesizable design verified with Quartus & ModelSim
+- Fully synthesizable design verified with Quartus 
 
 ## ⚙️ Applications
 
 - Hardware acceleration
 - Real-time neural inference
-- Edge AI on low-cost FPGAs
 - Educational FPGA/ML demonstration
-- Deterministic ML cores for embedded systems
+
 
 ## 📁 Repository Structure
 
