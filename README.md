@@ -5,7 +5,7 @@ The design performs fixed-point inference using dedicated MAC hardware, ROM-base
 
 ## 🧠 Project Overview
 
-This project was developed as part of an academic hardware design course.  
+This project was developed as part of my **Bachelor’s degree final project in Electrical and Electronics Engineering**.  
 It demonstrates how a simple neural network can be accelerated using FPGA resources by implementing:
 
 - Fixed-point arithmetic
