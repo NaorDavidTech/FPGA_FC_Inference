@@ -63,4 +63,7 @@ A full project report (~80 pages) is included, containing:
 📄 **Full Report:** `docs/Project_Report.pdf`  
 
 
+## 👨‍💻 Author
 
+Naor David
+Electronics Engineer
