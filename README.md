@@ -38,8 +38,8 @@ The project includes a full PDF report (~80 pages) detailing the architecture, i
 
 ## 📁 Repository Structure
 
-- packages/ – VHDL packages (types, constants, fixed-point)
-- rtl/ – RTL VHDL source code (MAC, FC layer, ROM, FSM, top level)
+- packages/ – VHDL packages (types, constants)
+- rtl/ – RTL VHDL source code (MAC, ROM, FSM, top level)
 - mif/ – Memory Initialization Files (.mif) for network weights and inputs
 - tb/ – Testbenches 
 - docs/ – Full project report (PDF) and architecture diagrams
