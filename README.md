@@ -19,7 +19,7 @@ The project includes a full PDF report (~80 pages) detailing the architecture, i
 ## 🔧 Key Features
 
 - Single-layer Fully Connected neural network (FC)
-- MAC hardware unit for multiply–accumulate operations
+- MAC hardware unit for multiply-accumulate operations
 - Fixed-point quantization for efficient FPGA resource usage
 - Weight ROMs using Intel .mif files
 - Top-level RTL architecture in VHDL
