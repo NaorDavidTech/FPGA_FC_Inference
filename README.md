@@ -44,8 +44,9 @@ The project includes a full PDF report (~80 pages) detailing the architecture, i
 * Hardware acceleration
 * Real-time neural inference
 * Educational FPGA/ML demonstration
-
----
+* Low‑latency edge AI processing
+* Energy‑efficient inference for embedded systems
+* Benchmarking hardware vs. software ML performance
 
 ## 📁 Repository Structure
 
@@ -82,4 +83,5 @@ A full project report (~80 pages) is included, containing:
 
 **Naor David**
 Electronics Engineer
+
 
