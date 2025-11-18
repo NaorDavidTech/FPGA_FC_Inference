@@ -9,7 +9,7 @@ This project was developed as part of my **Bachelor’s degree final project in 
 It demonstrates how a simple neural network can be accelerated using FPGA resources by implementing:
 
 - Fixed-point arithmetic
-- A custom Multiply–Accumulate (MAC) hardware block
+- A custom Multiply-Accumulate (MAC) hardware block
 - ROM-based weight storage
 - A deterministic, cycle-accurate control FSM
 - RTL design in VHDL + ModelSim simulation + Quartus compilation for DE2-115
