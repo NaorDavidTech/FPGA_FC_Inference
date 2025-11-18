@@ -1,9 +1,9 @@
-🔵 FPGA Single-Layer Neural Network Inference (VHDL)
+##🔵 FPGA Single-Layer Neural Network Inference (VHDL)
 
 Hardware implementation of a single-layer Fully Connected neural network on the Intel/Altera DE2-115 FPGA board.
 The design performs fixed-point inference using dedicated MAC hardware, ROM-based weights, and an FSM-controlled datapath.
 
-🧠 Project Overview
+##🧠 Project Overview
 
 This project was developed as part of an academic hardware design course.
 It demonstrates how a simple neural network can be accelerated using FPGA resources by implementing:
@@ -20,7 +20,7 @@ RTL design in VHDL + ModelSim simulation + Quartus compilation for DE2-115
 
 The project includes a full PDF report (~80 pages) detailing the architecture, implementation, results, and design trade-offs.
 
-🔧 Key Features
+##🔧 Key Features
 
 Single-layer Fully Connected neural network (FC)
 
@@ -40,7 +40,7 @@ Compatible with DE2-115 Cyclone IV FPGA board
 
 Fully synthesizable design verified with Quartus & ModelSim
 
-⚙️ Applications
+##⚙️ Applications
 
 Hardware acceleration
 
@@ -63,7 +63,7 @@ README.md   – Project overview (this file)
 LICENSE     – MIT License
 
 
-📘 Documentation
+##📘 Documentation
 
 A full project report (~80 pages) is included, containing:
 
@@ -92,9 +92,9 @@ Timing closure and hardware verification
 A downloadable ZIP containing the full Quartus project, RTL source, weight files, and diagrams will be added soon.
 
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Naor David
 FPGA & Embedded Systems Engineer
 
-💡 Hardware-accelerated AI. Cycle-accurate. Fully deterministic.
+##💡 Hardware-accelerated AI. Cycle-accurate. Fully deterministic.
