@@ -1,5 +1,5 @@
-# 🔵 FPGA Single-Layer Neural Network Inference (VHDL)
 ![FPGA_FC_Inference](docs/Full_RTL_schematic.png)
+# 🔵 FPGA Single-Layer Neural Network Inference (VHDL)
 Hardware implementation of a single-layer Fully Connected neural network on the Intel/Altera DE2-115 FPGA board.
 The design performs fixed-point inference using dedicated MAC hardware, ROM-based weights, and an FSM-controlled datapath.
 
