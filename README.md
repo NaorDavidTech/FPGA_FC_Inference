@@ -1,5 +1,5 @@
 # 🔵 FPGA Single-Layer Neural Network Inference (VHDL)
-![ESP32-USBC\_PCB](docs/ESP32-USBC_PCB.png)
+![ESP32-USBC\_PCB](docs/Full RTL schematic .png)
 Hardware implementation of a single-layer Fully Connected neural network on the Intel/Altera DE2-115 FPGA board.
 The design performs fixed-point inference using dedicated MAC hardware, ROM-based weights, and an FSM-controlled datapath.
 
